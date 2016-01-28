@@ -1,4 +1,4 @@
-## sublime Text 常使用插件
+# sublime Text 常使用插件
 
 [插件查询](https://packagecontrol.io/)
 
