@@ -28,8 +28,8 @@ http://segmentfault.com/a/1190000000342636?from=androidqq
 	{
   	title:"My first post!",
   	author: {
-    firstName: "Charles",
-    lastName: "Jolley"}
+    	firstName: "Charles",
+    	lastName: "Jolley"}
 	}
 会得到如下结果：
 
