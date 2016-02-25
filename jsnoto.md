@@ -60,3 +60,5 @@ call, apply都属于Function.prototype的一个方法,它是JavaScript引擎内�
 *	a) **Prototype:每一个函数都包含一个prototype属性**，这个属性指向的是一个对象的引用；而对已每一个函数（类）的实例都会从prototype属性指向的对象上继承属性，换句话说通过同一个函数创建的所有对象都继承一个相同的对象。
 
 *	b) 通过new 关键字和构造函数创建的对象的原型，就是构造函数的prototype指向的那个对象
+
+####function函数就是对象
