@@ -63,7 +63,3 @@ call, apply都属于Function.prototype的一个方法,它是JavaScript引擎内�
 <<<<<<< HEAD
 
 ####function函数就是对象
-=======
-*	
-####aaa
->>>>>>> 872866e9f4ffc299b83f967e7314d5736824fc24
