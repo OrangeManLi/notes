@@ -63,6 +63,12 @@ call, apply都属于Function.prototype的一个方法,它是JavaScript引擎内�
 <<<<<<< HEAD
 
 ####function函数就是对象
+
 ------
 
-123
+###js之事件冒泡和事件捕
+
+*冒泡型事件：事件按照从最特定的事件目标到最不特定的事件目标(document对象)的顺序触发。
+  IE 5.5: div -> body -> document
+  IE 6.0: div -> body -> html -> document
+  Mozilla 1.0: div -> body -> html -> document -> window
