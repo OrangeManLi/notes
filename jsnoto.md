@@ -64,3 +64,5 @@ call, apply都属于Function.prototype的一个方法,它是JavaScript引擎内�
 
 ####function函数就是对象
 ------
+
+123
