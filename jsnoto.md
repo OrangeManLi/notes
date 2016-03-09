@@ -61,7 +61,7 @@ call, apply都属于Function.prototype的一个方法,它是JavaScript引擎内�
 
 *	b) 通过new 关键字和构造函数创建的对象的原型，就是构造函数的prototype指向的那个对象
 
-<<<<<<< HEAD
+
 
 ####function函数就是对象
 
