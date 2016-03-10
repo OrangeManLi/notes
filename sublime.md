@@ -8,7 +8,7 @@
 
 ###Emmet 
 
-> 快捷键
+> Emmet 项目的前身是前端开发人员熟知的 Zen Coding（快速编写 HTML/CSS 代码的方案）。
 
 ###JsFormat
 
