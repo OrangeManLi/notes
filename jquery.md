@@ -11,8 +11,8 @@ jQuery.extend();
 ####jQuery.fn
 
     jQuery.fn = jQuery.prototype = {
-　　　init: function( selector, context ) {//….
-      //……
+        init: function( selector, context ) {//….
+         //……
     };
     
 原来 jQuery.fn = jQuery.prototype.对prototype肯定不会陌生啦。
