@@ -20,3 +20,24 @@ jQuery.extend();
 虽然 javascript　没有明确的类的概念，但是用类来理解它，会更方便。
 
 jQuery便是一个封装得非常好的类，比如我们用 语句　$(“#btn1″) 会生成一个 jQuery类的实例。
+
+### jquery 效果
+
+api:
+
+    show();
+    hide();
+    toggle();
+    slideDown();
+    slideUp();
+    slideToggle();
+    fadeIn();
+    fadeOut():
+    fadeToggle();
+    animate();
+    delay();
+    stop();
+    finish();
+    jQuery.fx.off;
+    jQuery.fx.interval;
+    
