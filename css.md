@@ -1,8 +1,8 @@
+# CSS 技巧
 
-#CSS 技巧
+### 怎么用 CSS 控制表单中的 RADIO 样式？
 
-###怎么用CSS控制表单中的RADIO样式？
-用label，例如：
+用 label，例如：
 
     .add_cart_radio{
         float:left;
@@ -25,8 +25,8 @@
         background:#FF6600;
         color:#FFFFFF;
     }
-    
-###条件注释判断浏览器版本
+
+### 条件注释判断浏览器版本
 
     <!--[if !IE]><!--> 除IE外都可识别 <!--<![endif]-->
     <!--[if IE]> 所有的IE可识别 <![endif]-->
@@ -39,7 +39,7 @@
     <!--[if IE 8]> 仅IE8可识别 <![endif]-->
     <!--[if IE 9]> 仅IE9可识别 <![endif]-->
 
-###css命名规范
+### css 命名规范
 
     头：header
     内容：content/container
@@ -80,9 +80,7 @@
 
 注释的写法
 
-
 内容区
-
 
     id的命名
     容器: container
@@ -141,22 +139,22 @@
     友情链接：link
     版权：copyright
 
-class的命名
+class 的命名
 
     (1)颜色:使用颜色的名称或者16进制代码,如
     .red { color: red; }
     .f60 { color: #f60; }
     .ff8600 { color: #ff8600; }
-    
+
     (2)字体大小,直接使用"font+字体大小"作为名称,如
     .font12px { font-size: 12px; }
     .font9pt {font-size: 9pt; }
-    
+
     (3)对齐样式,使用对齐目标的英文名称,如
-    
+
     .left { float:left; }
     .bottom { float:bottom; }
-    
+
     (4)标题栏样式,使用"类别+功能"的方式命名,如
     .barnews { }
     .barproduct { }

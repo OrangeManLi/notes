@@ -1,12 +1,11 @@
-#git 学习
+# git 学习
 
-[阮一峰的git](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+[阮一峰的 git](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
 
+### git pull
 
-###git pull
+> $ git pull <远程主机名> <远程分支名>:<本地分支名>
 
->$ git pull <远程主机名> <远程分支名>:<本地分支名>
+### git push
 
-###git push
-
->$ git push <远程主机名> <本地分支名>:<远程分支名>
+> $ git push <远程主机名> <本地分支名>:<远程分支名>
